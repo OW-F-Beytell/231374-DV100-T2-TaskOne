@@ -18,3 +18,12 @@ let answer = 0;
 
 answer = numOne + numTwo / numThree * numFour;
 console.log(answer);
+
+/* Exercise Three */
+let timmyAmount = 10;
+let timmyRate = 0.15;
+let susanAmount = 25;
+let susanRate = 0.26;
+
+let Value = (timmyAmount * timmyRate) + (susanAmount * susanRate);
+console.log(Value);
